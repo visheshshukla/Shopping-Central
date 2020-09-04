@@ -9,7 +9,8 @@ const MongoDBStore = require('connect-mongodb-session')(session);
 const errorController = require('./controllers/error');
 const User = require('./models/user');
 
-const MONGODB_URI = process.env.MONGO;
+const MONGODB_URI =
+  process.env.MONGO;
 
 const app = express();
 const store = new MongoDBStore({

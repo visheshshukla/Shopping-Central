@@ -1,4 +1,4 @@
 # Shopping-Central
-Online Shopping Website
+Full Stack Project On Online Shopping Website.
 
 Project In Progress.

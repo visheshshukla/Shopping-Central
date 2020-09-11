@@ -2,4 +2,4 @@
 
 Full Stack Project On Online Shopping Website.
 
-Project Almost Completed and Will be Live Soon.
+Project Completed. Awaiting Deployment.
